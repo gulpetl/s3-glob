@@ -2,12 +2,7 @@
 
 Retrieve object list entries in S3 using minimatch-style globbing.
 
-![build status](http://img.shields.io/travis/izaakschroeder/s3-glob.svg?style=flat)
-![coverage](http://img.shields.io/coveralls/izaakschroeder/s3-glob.svg?style=flat)
-![license](http://img.shields.io/npm/l/s3-glob.svg?style=flat)
-![version](http://img.shields.io/npm/v/s3-glob.svg?style=flat)
-![downloads](http://img.shields.io/npm/dm/s3-glob.svg?style=flat)
-
+Forked from unmaintained [izaakschroeder/s3-glob](https://github.com/izaakschroeder/s3-glob).
 
 Features:
  * Full support for minimatch-style syntax,
